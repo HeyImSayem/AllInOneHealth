@@ -1,0 +1,120 @@
+[17-May-2022 14:22:52 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:22:52 UTC] PHP Stack trace:
+[17-May-2022 14:22:52 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:0
+[17-May-2022 14:22:52 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:58
+[17-May-2022 14:22:52 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:22:52 UTC] PHP Stack trace:
+[17-May-2022 14:22:52 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/index.php:0
+[17-May-2022 14:22:52 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/index.php:7
+[17-May-2022 14:23:19 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:23:19 UTC] PHP Stack trace:
+[17-May-2022 14:23:19 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:0
+[17-May-2022 14:23:19 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:58
+[17-May-2022 14:23:19 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:23:19 UTC] PHP Stack trace:
+[17-May-2022 14:23:19 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/index.php:0
+[17-May-2022 14:23:19 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/index.php:7
+[17-May-2022 14:23:20 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:23:20 UTC] PHP Stack trace:
+[17-May-2022 14:23:20 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:0
+[17-May-2022 14:23:20 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:58
+[17-May-2022 14:23:20 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:23:20 UTC] PHP Stack trace:
+[17-May-2022 14:23:20 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/index.php:0
+[17-May-2022 14:23:20 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/index.php:7
+[17-May-2022 14:23:21 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:23:21 UTC] PHP Stack trace:
+[17-May-2022 14:23:21 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:0
+[17-May-2022 14:23:21 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:58
+[17-May-2022 14:23:21 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:23:21 UTC] PHP Stack trace:
+[17-May-2022 14:23:21 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/index.php:0
+[17-May-2022 14:23:21 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/index.php:7
+[17-May-2022 14:23:21 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:23:21 UTC] PHP Stack trace:
+[17-May-2022 14:23:21 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:0
+[17-May-2022 14:23:21 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:58
+[17-May-2022 14:23:21 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:23:21 UTC] PHP Stack trace:
+[17-May-2022 14:23:21 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/index.php:0
+[17-May-2022 14:23:21 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/index.php:7
+[17-May-2022 14:23:21 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:23:21 UTC] PHP Stack trace:
+[17-May-2022 14:23:21 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:0
+[17-May-2022 14:23:21 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:58
+[17-May-2022 14:23:21 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:23:21 UTC] PHP Stack trace:
+[17-May-2022 14:23:21 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/index.php:0
+[17-May-2022 14:23:21 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/index.php:7
+[17-May-2022 14:23:21 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:23:21 UTC] PHP Stack trace:
+[17-May-2022 14:23:21 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:0
+[17-May-2022 14:23:21 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:58
+[17-May-2022 14:23:21 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:23:21 UTC] PHP Stack trace:
+[17-May-2022 14:23:21 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/index.php:0
+[17-May-2022 14:23:21 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/index.php:7
+[17-May-2022 14:23:21 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:23:21 UTC] PHP Stack trace:
+[17-May-2022 14:23:21 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:0
+[17-May-2022 14:23:21 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:58
+[17-May-2022 14:23:21 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:23:21 UTC] PHP Stack trace:
+[17-May-2022 14:23:21 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/index.php:0
+[17-May-2022 14:23:21 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/index.php:7
+[17-May-2022 14:23:21 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:23:21 UTC] PHP Stack trace:
+[17-May-2022 14:23:21 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:0
+[17-May-2022 14:23:21 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:58
+[17-May-2022 14:23:21 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:23:21 UTC] PHP Stack trace:
+[17-May-2022 14:23:21 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/index.php:0
+[17-May-2022 14:23:21 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/index.php:7
+[17-May-2022 14:23:21 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:23:21 UTC] PHP Stack trace:
+[17-May-2022 14:23:21 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:0
+[17-May-2022 14:23:21 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:58
+[17-May-2022 14:23:22 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:23:22 UTC] PHP Stack trace:
+[17-May-2022 14:23:22 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/index.php:0
+[17-May-2022 14:23:22 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/index.php:7
+[17-May-2022 14:23:22 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:23:22 UTC] PHP Stack trace:
+[17-May-2022 14:23:22 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:0
+[17-May-2022 14:23:22 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:58
+[17-May-2022 14:23:22 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:23:22 UTC] PHP Stack trace:
+[17-May-2022 14:23:22 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/index.php:0
+[17-May-2022 14:23:22 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/index.php:7
+[17-May-2022 14:23:22 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:23:22 UTC] PHP Stack trace:
+[17-May-2022 14:23:22 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:0
+[17-May-2022 14:23:22 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:58
+[17-May-2022 14:23:22 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:23:22 UTC] PHP Stack trace:
+[17-May-2022 14:23:22 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/index.php:0
+[17-May-2022 14:23:22 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/index.php:7
+[17-May-2022 14:24:20 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:24:20 UTC] PHP Stack trace:
+[17-May-2022 14:24:20 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:0
+[17-May-2022 14:24:20 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:58
+[17-May-2022 14:24:20 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:24:20 UTC] PHP Stack trace:
+[17-May-2022 14:24:20 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/index.php:0
+[17-May-2022 14:24:20 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/index.php:7
+[17-May-2022 14:24:21 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:24:21 UTC] PHP Stack trace:
+[17-May-2022 14:24:21 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:0
+[17-May-2022 14:24:21 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:58
+[17-May-2022 14:24:21 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:24:21 UTC] PHP Stack trace:
+[17-May-2022 14:24:21 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/index.php:0
+[17-May-2022 14:24:21 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/index.php:7
+[17-May-2022 14:24:21 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:24:21 UTC] PHP Stack trace:
+[17-May-2022 14:24:21 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:0
+[17-May-2022 14:24:21 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/portfolio.php:58
+[17-May-2022 14:24:21 UTC] PHP Notice:  Undefined variable: page in /Users/sayemreza/Local Sites/website/app/public/includes/navbar.php on line 8
+[17-May-2022 14:24:21 UTC] PHP Stack trace:
+[17-May-2022 14:24:21 UTC] PHP   1. {main}() /Users/sayemreza/Local Sites/website/app/public/index.php:0
+[17-May-2022 14:24:21 UTC] PHP   2. include() /Users/sayemreza/Local Sites/website/app/public/index.php:7
